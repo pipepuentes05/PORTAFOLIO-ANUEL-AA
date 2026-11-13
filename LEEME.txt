@@ -1,0 +1,26 @@
+PORTAFOLIO ANUEL AA / FELIPE PUENTES
+
+1. Extrae TODO el ZIP (clic derecho > Extraer todo).
+2. Abre la carpeta portafolio-anuel en Visual Studio Code.
+3. Abre index.html en Chrome o Edge. También puedes usar Live Server si ya lo tienes instalado.
+
+Todos los archivos ya están conectados. Conserva la carpeta assets junto a index.html, style.css y script.js.
+
+CONTENIDO
+- Fondo azul original creado para este portafolio.
+- PDF resumido a dos páginas.
+- Fotografía real del interior.
+- Video MP4 de funcionamiento incluido, sin depender de YouTube.
+- Video de YouTube del proceso (necesita internet).
+- Diagrama de conexiones con visor para ampliar.
+- Panel interactivo: demostración visual y tono de prueba con filtros agua y eco.
+
+El panel de prueba no se conecta al Arduino y no incluye canciones comerciales. Este portafolio documenta el proyecto; la página original de control del Arduino no fue adjuntada a esta conversación y no se incluye.
+
+EDITAR
+index.html: textos y estructura.
+style.css: diseño, colores, animaciones y versión móvil.
+script.js: visor, animaciones, controles de demostración y audio de prueba.
+assets/: imágenes, PDF y video.
+
+No necesita instalar dependencias ni ejecutar npm.
